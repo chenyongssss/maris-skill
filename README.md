@@ -22,6 +22,14 @@ MARIS 是一个轻量的 Agent Skill，帮助你围绕当前工作中的选择�
 
 MARIS 采用 [Agent Skills](https://agentskills.io/) 格式，可在支持该格式的 AI 工具中使用，包括 Claude 和 Codex。
 
+### 让 Agent 安装
+
+在支持安装 Skill 的 Agent 中，直接发送：
+
+> 请帮我安装这个 Skill：https://github.com/chenyongssss/maris-skill.git
+
+安装后，开始新会话并说：“用 MARIS 带我看懂这里。”
+
 ### Claude 网页版和桌面版
 
 1. 下载本仓库的 [maris-claude.zip](maris-claude.zip)。
